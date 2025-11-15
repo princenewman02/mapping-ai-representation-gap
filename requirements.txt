@@ -1,1 +1,53 @@
-###
+# ==============================
+# Core Libraries
+# ==============================
+numpy
+pandas
+os
+gc
+re
+json
+tqdm
+requests
+
+# ==============================
+# Visualization
+# ==============================
+matplotlib
+seaborn
+plotly
+
+# ==============================
+# Machine Learning
+# ==============================
+scikit-learn
+statsmodels
+fairlearn
+joblib
+
+# ==============================
+# NLP and Deep Learning
+# ==============================
+nltk
+spacy
+torch
+transformers
+datasets
+
+# ==============================
+# Jupyter & Development
+# ==============================
+jupyter
+notebook
+ipython
+
+# ==============================
+# Notes
+# ==============================
+# These packages cover:
+# - Core data processing and analysis (NumPy, pandas)
+# - Visualization (matplotlib, seaborn, plotly)
+# - Machine learning (scikit-learn, statsmodels)
+# - Fairness and bias evaluation (fairlearn)
+# - NLP modeling (nltk, spacy, transformers, torch)
+# - Utility and development (joblib, tqdm, requests, Jupyter)
