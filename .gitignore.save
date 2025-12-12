@@ -1,0 +1,7 @@
+# Ignore everything in Data
+Data/*
+
+# Except the files/folders we want to track
+!Data/us_census_demographics.xlsx
+!Data/cleaned_dat.DS_Store
+Data/
