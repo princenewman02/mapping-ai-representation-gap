@@ -74,7 +74,7 @@ We will utilize the following datasets:
 ## Authors
 
   - Prince Newman (Data Lead) - [@princenewman02](https://github.com/princenewman02)
-  - Bruna MacEdo Porto (Modeling Lead) 
+  - Bruna MacEdo Porto (Modeling Lead) - https://github.com/brunamportoDS
   - Maya Silver - [@mcsilver99](https://github.com/mcsilver99)
 
 ---
